@@ -946,6 +946,7 @@
 
 - [**391**星][19d] [C++] [simsong/bulk_extractor](https://github.com/simsong/bulk_extractor) 取证工具
 - [**11**星][3y] [Java] [nps-deep/sectorscope](https://github.com/NPS-DEEP/SectorScope) A GUI for viewing block hashes found using hashdb and bulk_extractor
+- [**9**Star][1y] [C++] [4n6ist/bulk_extractor-rec](https://github.com/4n6ist/bulk_extractor-rec) Bulk Extractor with Record Carving (bulk_extractor-rec)
 - [**0**星][2y] [Lex] [thomaslaurenson/irdnumberscanner](https://github.com/thomaslaurenson/irdnumberscanner) A bulk_extractor scanner plug-in to detect and validate Inland Revenue (IRD) Numbers
 
 
